@@ -1,0 +1,24 @@
+{
+  "name": "afya-chat",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A WhatsApp + web health-triage assistant with streaming AI replies, built with Next.js, TypeScript and Supabase.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node --experimental-strip-types --test tests/lib.test.ts"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.45.4",
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.16.10",
+    "@types/react": "18.3.11",
+    "@types/react-dom": "18.3.0",
+    "typescript": "5.6.3"
+  }
+}
