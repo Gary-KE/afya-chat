@@ -2,6 +2,8 @@
 
 **Live demo:** https://afya-chat-nine.vercel.app
 
+**Project report (PDF):** [Afya Chat and Dondoo, explained step by step](docs/Gerishom_Manoa_Project_Report_Dondoo_AfyaChat.pdf)
+
 A health-guidance assistant that answers on **WhatsApp** and the **web**, with **streaming AI replies**, a **safety layer for emergencies**, and a **clinician dashboard**. Built with Next.js 14, TypeScript and Supabase (PostgreSQL).
 
 Built by **Gerishom Manoah** (with AI pair-programming) as a working demo of the stack used for AI-native health products in Africa.
